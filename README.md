@@ -9,9 +9,16 @@ A collection of FPGA projects built with **Gowin EDA**, targeting Sipeed Tang Na
 | [Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html) | GW1NR-9 | 8640 | ✅ Active |
 | [Tang Primer 20K](https://wiki.sipeed.com/hardware/en/tang/tang-primer-20k/primer-20k.html) | GW2A-18 | 20736 | 🔜 Planned |
 
-| Tang Nano 9K | Tang Primer 20K |
-|:---:|:---:|
-| ![Tang Nano 9K](https://wiki.sipeed.com/hardware/assets/Tang/Nano-9K/9K-3.png) | ![Tang Primer 20K](https://wiki.sipeed.com/hardware/en/tang/tang-primer-20k/assets/primer-20k.png) |
+<table align="center">
+  <tr>
+    <td align="center"><b>Tang Nano 9K</b></td>
+    <td align="center"><b>Tang Primer 20K</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://wiki.sipeed.com/hardware/assets/Tang/Nano-9K/9K.png" width="300"></td>
+    <td align="center" valign="middle"><img src="https://wiki.sipeed.com/hardware/zh/tang/tang-primer-20k/assets/dock-up.png" width="300"></td>
+  </tr>
+</table>
 
 ---
 
